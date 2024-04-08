@@ -1,0 +1,165 @@
+.collection {
+    width: 1,920px;
+    height: 257.39px;
+    margin-top: 50px;
+    left: 0.35px;
+    padding: 0px;
+    gap: 4px;
+    opacity: 0px;
+    border: 3px solid fuchsia;
+    border: none;
+    position: relative;
+    top: -50px;
+    margin-left: 4%;
+    margin-right: 0%;
+    }
+    .collection .collection-trending {
+        color: #fff;
+        font-size: 32px;
+        font-weight: 800;
+        font-family: 'Poppins', sans-serif;
+    
+    }
+    .collection-container {
+        border: 3px solid red;
+        border: none;
+        margin-top: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-left: -50px;
+        margin-top: -1px;
+    }
+    .collection-container .box13 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        margin-left: 2%px;
+        width: 329.59px;
+        height: 329.59px;
+        gap: 0px;
+        border-radius: 12px 12px 12px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Clpic1.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    .collection-container .box14 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        width: 329.59px;
+        height: 329.59px;
+        gap: 0px;
+        border-radius: 12px 12px 12px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Clpic2.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    
+    .collection-container .box15 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        width: 329.59px;
+        height: 329.59px;
+        gap: 0px;
+        border-radius: 12px 12px 12px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Clpic3.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    
+    .collection-container .box16 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        width: 329.59px;
+        height: 329.59px;
+        gap: 0px;
+        border-radius: 12px 12px 12px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Clpic4.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    
+    .collection-container .box17 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        width: 329.59px;
+        height: 329.59px;
+        gap: 0px;
+        border-radius: 12px 12px 12px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Clpic5.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    
+    .collection-container .box18 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        width: 329.59px;
+        height: 329.59px;
+        gap: 0px;
+        border-radius: 12px 0px 0px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Clpic6.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    
+    .collection-container, .box14, .box15, .box16, .box17, .box18{
+        margin-left: 17px;
+    }
+    .collection-container, .box13, .box14, .box15, .box16, .box17, .box18{
+        cursor: pointer;
+    }
+
+    .collection-container .box13:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
+    .collection-container .box14:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
+    .collection-container .box15:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
+    .collection-container .box16:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
+    .collection-container .box17:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
+    .collection-container .box18:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }

@@ -1,0 +1,165 @@
+.trillers {
+    width: 1,920px;
+    height: 257.39px;
+    margin-top: 80px;
+    left: 0.35px;
+    padding: 0px;
+    gap: 4px;
+    opacity: 0px;
+    border: 3px solid fuchsia;
+    border: none;
+    position: relative;
+    top: -50px;
+    margin-left: 5%;
+    margin-right: 0%;
+    }
+    .trillers .trillers-trending {
+        color: #fff;
+        font-size: 32px;
+        font-weight: 800;
+        font-family: 'Poppins', sans-serif;
+        margin-left: 0;
+    
+    }
+    .trillers-container {
+        border: 3px solid red;
+        border: none;
+        margin-top: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-left: -50px;
+        margin-top: -1px;
+    }
+    .trillers-container .box25 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        margin-left: 2%px;
+        width: 329.59px;
+        height: 185.39px;
+        gap: 0px;
+        border-radius: 12px 12px 12px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Tlpic1.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    .trillers-container .box26 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        width: 329.59px;
+        height: 185.39px;
+        gap: 0px;
+        border-radius: 12px 12px 12px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Tlpic2.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    
+    .trillers-container .box27 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        width: 329.59px;
+        height: 185.39px;
+        gap: 0px;
+        border-radius: 12px 12px 12px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Tlpic3.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    
+    .trillers-container .box28 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        width: 329.59px;
+        height: 185.39px;
+        gap: 0px;
+        border-radius: 12px 12px 12px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Tlpic4.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    
+    .trillers-container .box29 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        width: 329.59px;
+        height: 185.39px;
+        gap: 0px;
+        border-radius: 12px 12px 12px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Tlpic5.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    
+    .trillers-container .box30 {
+        border: 3px solid green;
+        border: none;
+        padding: 10px;
+        width: 150px;
+        height: 185.39px;
+        gap: 0px;
+        border-radius: 12px 0px 0px 12px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: url(../../images/Tlpic6.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        transition: 1s;
+    }
+    
+    .trillers-container, .box26, .box27, .box28, .box29, .box30{
+        margin-left: 17px;
+    }
+    .trillers-container, .box25, .box26, .box27, .box28, .box29, .box30{
+        cursor: pointer;
+    }
+    .trillers-container .box25:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
+    .trillers-container .box26:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
+    .trillers-container .box27:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
+    .trillers-container .box28:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
+    .trillers-container .box29:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
+    .trillers-container .box30:hover{
+        transform: scale(1.1);
+        z-index: 1;
+    }
